@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<link rel="stylesheet" href="style.css">-->
+    <title></title>
+</head>
+    <script type="text/javascript" src="login.js"></script>
+<body>
+    <form action="" name="loginform" id="loginform"></form>
+        <input type="text" name="username" id="username" placeholder="Username" autocomplete="on">
+        <br>
+        <br>
+        <input type="password" name="password" id="password" placeholder="Password" autocomplete="on">
+        <br>
+        <br>
+        <button onclick="getInput()">Submit</button>
+    </form>
+    <p style="display: none;" id="errorMessage">
+        Invalid username or password
+    </p>
+</body>
+</html>
