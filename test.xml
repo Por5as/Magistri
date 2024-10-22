@@ -1,0 +1,4946 @@
+<ArrayOfmunicipalityInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<municipalityInfo>
+<name/>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Albrechtice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Albrechtice v Jizerských horách</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Aš</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Babice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bakov nad Jizerou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bánov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Baška</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Batelov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bavorov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bečov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bečváry</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bedihošť</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bechlín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bechyně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bělá nad Radbuzou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bělá pod Bezdězem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Benátky nad Jizerou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Benešov</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Benešov u Prahy</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bernartice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Beroun</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Beroun 2</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Beroun 7 - Králův Dvůr</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Beroun-Hlinky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bezděkov nad Metují</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bezno</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bílina</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Blansko</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Blatná</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Blížkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bobrová</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohdalov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohumín</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohumín - Skřečoň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohuňovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohuslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohušovice nad Ohří</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohutice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bohutín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bochov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bojanov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bojkovice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bolatice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bor u Tachova</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Borohrádek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Borová</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Borovany</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Boršice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bory</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Boskovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bošovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bouzov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brandýs nad Labem</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brandýs nad Labem - Stará Bol.</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brandýs nad Orlicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brandýsek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bratislava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bratříkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brněnec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brniště</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno</name>
+<schoolCount>25</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno - Bystrc</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno - Husovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno - Královo Pole</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno - Stránice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno - Žabovřesky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno - Židenice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno Chrlice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno-Nový Lískovec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brno-Žabovřesky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brodce</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brodce nad Jizerou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brodek u Prostějova</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brodek u Přerova</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Broumov</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Broumy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bruntál</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Brušperk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Břeclav</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Březí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Březnice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Březník</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Březno</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Březová</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Břidličná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bučovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Budišov nad Budišovkou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Budkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Budyně nad Ohří</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Buchlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bystré u Poličky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bystřany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bystřice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bystřice nad Pernštejnem</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bystřice pod Hostýnem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bystřice u Benešova</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Byšice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Bzenec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cehnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cerekvice nad Bystřicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cerekvice nad Loučnou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cerhenice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cerhovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Citonice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cvikov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čachovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čáslav</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Častolovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čebín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čechtice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čeladná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čelákovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čerčany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čermná nad Orlicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Černá Hora</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Černíkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Černilov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Černošice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Černovice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Černožice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Černý Důl</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Červená Voda</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Červené Janovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Červené Pečky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Červený Kostelec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Česká Bělá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Česká Kamenice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Česká Lípa</name>
+<schoolCount>14</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Česká Třebová</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Česká Ves</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>České Budějovice</name>
+<schoolCount>34</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>České Libchavy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>České Meziříčí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>České Velenice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Český Brod</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Český Brod - Liblice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Český Krumlov</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Český Rudolec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Český Těšín</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čimelice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čistá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čížkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Čížová</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dačice</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dalečín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Damníkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Daskabát</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dašice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín 2</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín 9</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín I</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín I - Děčín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín II</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín III</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín IV</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín IX - Bynov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín VI</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín VIII</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín XXVII - Březiny</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín XXXI</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín XXXII</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Děčín-Libverda</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Desná v Jizerských horách</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Deštná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Deštné v Orlických horách</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dětmarovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dětřichov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dětřichov nad Bystřicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobrá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobrá Voda u Českých Budějovic</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobratice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobré</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobrovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobruška</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobřany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobřichovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobříš</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dobříš 1</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Doksy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolany u Olomouce</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Bečva</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Bojanovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Bousov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Břežany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Cerekev</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Čermná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Habartice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Hbity</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Kounice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Kralovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Lánov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Loučky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Lutyně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Němčí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Poustevna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dolní Újezd</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Domamil</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Domaželice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Domažlice</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Domažlice-Týnské Předměstí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Doubravník - Olší</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Doudleby nad Orlicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Drahelčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Drnholec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Drnovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dřísy</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dubá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dubenec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dubí 1</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dubí 2</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dubí u Teplic</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dubicko</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Duchcov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dušejov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Dvůr Králové nad Labem</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Frenštát pod Radhoštěm</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Fryčovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Frýdek-Místek</name>
+<schoolCount>20</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Frýdlant</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Frýdlant nad Ostravicí</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Halenkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Harrachov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Havířov - Bludovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Havířov - Město</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Havířov - Podlesí</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Havířov - Prostřední Suchá</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Havířov - Šumbark</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Havlíčkův Brod</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hazlov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hejnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Heršpice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Heřmanice u Oder</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Heřmanův Městec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hlinsko</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hluboká nad Vltavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hluboš</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hlučín</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hluk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hlušice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hněvošice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hněvotín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hnojník</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hodonín</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Holešov</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Holešovice, Praha 7</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Holice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Holice v Čechách</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Holýšov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horažďovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Adršpach</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Bečva</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Branná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Bříza</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Čermná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Dunajovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Jiřetín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Maršov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Planá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Suchá</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horní Vltavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Horšovský Týn</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hořepník</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hořice</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hořice v Podkrkonoší</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hořičky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hořiněves</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hořovice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hostěradice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hostinné</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hostivice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hostomice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hostouň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hostouň u Horšovského Týna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hoštka u Roudnice nad Labem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hradec Králové</name>
+<schoolCount>34</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hradec Králové 12</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hradec nad Svitavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hrádek</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hrádek nad Nisou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hrádek u Rokycan</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hranice</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hranice IV-Drahotuše</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hrochův Týnec</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hronov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hroznětín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hroznová Lhota</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hřebeč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Humpolec</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Husinec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hustopeče</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hutisko-Solanec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Hvožďany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cheb</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Cheb 2</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chlum u Třeboně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chlumec nad Cidlinou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Choceň</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chocerady</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chodouny</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chodov</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chodová Planá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Choltice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chomutice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chomutov</name>
+<schoolCount>14</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chotěboř</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chotětov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chotoviny</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Choustník</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Choustníkovo Hradiště</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chrast</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chraštice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chrudim</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chrudim 4</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chvaleč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chvaletice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chvalkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chvalšiny</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chyňava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Chyšky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ivančice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ivanovice na Hané</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jablonec nad Nisou</name>
+<schoolCount>12</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jablonné nad Orlicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jablonné v Podještědí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jablunkov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jáchymov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jalubí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Janovice nad Úhlavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Janovice u Frýdku-Místku</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jaroměř</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jaroměřice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jaroslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Javornice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Javorník</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jenišovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jesenice</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jeseník</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jestřebí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jevíčko</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jevišovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jičín</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jičíněves</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jihlava</name>
+<schoolCount>26</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jihlava 1</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jilemnice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jílové</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jimramov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jince</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jindřichov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jindřichovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jindřichův Hradec</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jindřichův Hradec I</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jindřichův Hradec II</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jindřichův Hradec V</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jirkov</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jirny</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jistebnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Jistebník</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kadaň</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kamenice nad Lipou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kamenice u Jihlavy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kamenický Šenov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kameničky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kamenné Žehrovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kamenný Újezd</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kaplice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karlovy Vary</name>
+<schoolCount>12</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karlovy Vary 6</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karolinka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná - Fryštát</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná - Hranice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná - Nové Město</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná - Ráj</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná-Hranice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná-Mizerov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná-Nové Město</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Karviná-Ráj</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kašperské Hory</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Katovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Katusice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kdyně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kladno</name>
+<schoolCount>18</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kladno 2</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kladruby nad Labem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klášter Hradiště nad Jizerou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klášterec nad Ohří</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klášterec nad Orlicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klatovy</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klatovy 3</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klatovy 4</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klecany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klenovice na Hané</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klimkovice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Klobouky u Brna</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kněždub</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kněževes</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kněžmost</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kobylá nad Vidnavkou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kocbeře</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kojetice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kojetín</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kokory</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kolín</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kolín - Sendražice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kolín II</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kolín III</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kolín IV</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kolín V</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kolinec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Koloveč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Komárov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Koněšín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Konice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Konstantinovy Lázně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kopidlno</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kopřivnice</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kosičky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kosmonosy</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kostelec na Hané</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kostelec nad Černými lesy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kostelec nad Labem</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kostelec nad Orlicí</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kostomlaty nad Labem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Košetice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kounice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kounov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kovářov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kovářská</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kozlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krabčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kralovice</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Královské Poříčí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kralupy nad Vltavou</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Králův Dvůr</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kraslice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krásná Lípa</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kratonohy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kravaře</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krhanice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krchleby</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krnov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kroměříž</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krouna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krucemburk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Krupka</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kryry</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Křelov-Břuchotín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Křemže</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Křinec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Křivoklát</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Křoví</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kunice - Všešímy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kunovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kunvald</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kuřim</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kutná Hora</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kutná Hora - Hlouška</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kutná Hora - Karlov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kyjov</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Kynšperk nad Ohří</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lánov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lanškroun</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lanškroun-Vnitřní Město</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Laškov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lázně Bohdaneč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ledčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ledeč nad Sázavou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ledenice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lenešice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lešná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Letohrad</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Letovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lety u Dobřichovic</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Libáň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Libčany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Libčice nad Vltavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liběchov</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec</name>
+<schoolCount>12</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 14</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 1</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 10</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 11</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 13</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 2</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 25</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 4</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 5</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 6</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 7</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec 8</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec III</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liberec -Vratislavice nad Nisou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Líbeznice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Libhošť</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Libchavy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Libštát</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Libuň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lično</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lichnov 46</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lichoceves</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lípa</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lipník nad Bečvou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lipov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lipová</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lipová-lázně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Líšnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lišov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Liteň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Litoměřice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Litomyšl</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Litovel</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Litvínov</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Litvínov - Hamr</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Litvínov - Horní Litvínov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Litvínovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Loděnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lodhéřov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lochovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Loket</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lomnice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lomnice nad Lužnicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lomnice nad Popelkou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Loučka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Loučná nad Desnou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Loukov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Louny</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lovčice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lovosice</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lubenec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lubná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Luby u Chebu</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Luhačovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Luká</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Luka nad Jihlavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lukavec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Luleč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Luštěnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lutín</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Luže</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lužec nad Vltavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lysá nad Labem</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Lysice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Majdalena</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Malá Skála</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Malé Svatoňovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Malečov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Malešov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Malonty</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Manchester, M16 8HX</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mariánské Lázně</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Melč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mělnické Vtelno</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mělník</name>
+<schoolCount>11</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Měník</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Merklín</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Měřín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Městec Králové</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Městečko Trnávka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Město Touškov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Meziměstí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mikulášovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mikulčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mikulov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mikulovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Miletín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Milevsko</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Miličín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Milín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Milotice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Milovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Milovice - Mladá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mimoň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Miroslav</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mirošov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mirošovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mirotice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mirovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mladá Boleslav</name>
+<schoolCount>23</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mladé Buky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mnichovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mnichovo Hradiště</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mníšek pod Brdy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mohelnice</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mochov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mokrá - Horákov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mokrovraty</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Morašice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Moravany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Moravec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Morávka 178</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Moravská Ostrava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Moravská Třebová</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Moravský Krumlov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Most</name>
+<schoolCount>14</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mostek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mostkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mosty u Jablunkova</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mrákov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mutějovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mysločovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Mžany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Načeradec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nahořany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Náchod</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nalžovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Náměšť na Hané</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Náměšť nad Oslavou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Napajedla</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nasavrky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nehvizdy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nechanice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nejdek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Němčice nad Hanou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Němčice u České Třebové</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nemojov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nemyčeves</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nepolisy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Neratovice</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Neveklov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nivnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nížkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nová Cerekev</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nová Paka</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nová Role</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nová Včelnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nová Ves u Chotěboře</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nové Dvory</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nové Hradiště 2</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nové Město na Moravě</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nové Město nad Metují</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nové Sedlo</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nové Strašecí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Novosedlice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Novosedly</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nový Bor</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nový Bydžov</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nový Jičín</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nový Knín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nový Rychnov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nučice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Nymburk</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Obořiště</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Obříství</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Odolena Voda</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Odry</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Okrouhlice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Olomouc</name>
+<schoolCount>27</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Olomouc - Pavlovičky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Olomouc -Klášterní Hradisko</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Olomouc-Svatý Kopeček</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Opatovice nad Labem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Opava</name>
+<schoolCount>15</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Opava 6</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Opočno</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Orlické Podhůří</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Orlová - Lutyně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Orlová-Lutyně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Osek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Oselce</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Osice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Oslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Osoblaha</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Osov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Osová Bítýška</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava</name>
+<schoolCount>10</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Dubina</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Hrabůvka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Hulváky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Koblov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Kunčičky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Mariánské Hory</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Petřkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Polanka nad Odrou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Poruba</name>
+<schoolCount>20</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava - Slezská Ostrava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava 1</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Hošťálkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Hrabůvka</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Mar.Hory</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Michálkovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Moravská Ostrava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Muglinov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Nová Bělá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Proskovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Přívoz</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Slezská Ostrava</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Stará Bělá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Svinov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Vítkovice</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Výškovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrava-Zábřeh</name>
+<schoolCount>10</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostravice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostroměř</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ostrov</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Osvětimany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Otaslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Otrokovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pacov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Panenské Břežany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Panenský Týnec</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pardubice</name>
+<schoolCount>26</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pardubice - Zelené Předměstí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pardubice 9</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pardubice-Zelené Předměstí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Paskov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pec pod Sněžkou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pecka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pečky</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pehřimov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pelhřimov</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pernarec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pernink</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Peruc</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Petrov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Petrovice 196</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Petrovice u Karviné</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Petřvald u Karviné</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Petřvald u Nového Jičína</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pchery</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pilníkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Písek</name>
+<schoolCount>11</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pivín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Planá</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Planá nad Lužnicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Plaňany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Plánice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Plasy</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Plumlov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Plzeň</name>
+<schoolCount>26</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Plzeň - Skvrňany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Plzeň-Křimice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Počaply</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Podbořany</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Podbřezí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Poděbrady</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Podolí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pohořelice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Polešovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Police nad Metují</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Polička</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Polná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Popice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Poříčany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Postoloprty</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Postupice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Potštejn</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha - Písnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha - Vinoř</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 1</name>
+<schoolCount>19</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 1 - Nové město</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 1 - Nové Město</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 1 - Staré Město</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10</name>
+<schoolCount>24</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10 - Dubeč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10 - Kolovraty</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10 - Vršovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10 - Záběhlice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10-Horní Měcholupy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10-Hostivař</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10-Strašnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10-Uhříněves</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 10-Záběhlice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 12 - Modřany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 13</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 13-Stodůlky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>PRAHA 15 - HOSTIVAŘ</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 19 - Kbely</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 2</name>
+<schoolCount>24</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 2 - Vinohrady</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 3</name>
+<schoolCount>15</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 3 - Žižkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4</name>
+<schoolCount>36</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Hodkovičky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Jižní Město</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Kamýk</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Krč</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Michle</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Modřany</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Nusle</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4 - Opatov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4-Braník</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4-Háje</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4-Jižní Město</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4-Libuš</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4-Nusle</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 4-Spořilov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5</name>
+<schoolCount>20</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5 - Hlubočepy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5 - Jinonice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5 - Košíře</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5 - Radotín</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5 - Stodůlky</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5 - Velká Chuchle</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5-Košíře</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5-Lužiny</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 5-Stodůlky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 6</name>
+<schoolCount>22</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 6 - Dejvice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 6 - Ruzyně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 6 – Ruzyně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 6 - Řepy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 6 - Veleslavín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 7</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 7-Holešovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 7-Troja</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8</name>
+<schoolCount>16</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8 - Bohnice</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8 - Dolní Chabry</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8 - Karlín</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8 - Kobylisy</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8 - Troja</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8-Bohnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8-Čimice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 8-Libeň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9</name>
+<schoolCount>22</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Černý most</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Dolní Počernice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Horní Počernice</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Hrdlořezy</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Klánovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Prosek</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Střížkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9 - Vysočany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9-Čakovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9-Černý Most</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9-Kbely</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9-Lehovec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9-Újezd nad Lesy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha 9-Vysočany</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Praha-Letňany</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prachatice</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prachovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prakšice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Proboštov u Teplic</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Proseč u Skutče</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prostějov</name>
+<schoolCount>19</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prostějov 1</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prostějov 6</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prostřední Bečva</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Protivanov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prštice u Brna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Průhonice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prušánky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Prysk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přáslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Předměřice nad Jizerou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Předměřice nad Labem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přelouč</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přemyslovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přerov</name>
+<schoolCount>10</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přerov nad Labem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přeštice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přibice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příbor</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příbram</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příbram I</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příbram II</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příbram IV</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příbram VII</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příkazy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Přimda</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Příšovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Pstruží</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ptení</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Puklice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Radějov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Radim u Kolína</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Radiměř</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rádlo</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Radnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Radomyšl</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Radonice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Radostín nad Oslavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Raduň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rajhrad</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rakovník</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rapotín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rapšach</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Raspenava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Raškovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ratíškovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rohovládova Bělá</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rokycany</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rokytnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rokytnice nad Jizerou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ronov nad Doubravou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ropice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rosice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rosice u Chrasti</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rotava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Roudnice nad Labem</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rovensko pod Troskami</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Roztoky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Roztoky u Křivoklátu</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rožďalovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rožmitál pod Třemšínem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rožnov pod Radhoštěm</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rtyně v Podkrkonoší</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ruda nad Moravou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rudná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rudník</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rudolfov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rumburk</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rybná nad Zdobnicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rychnov nad Kněžnou</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rýmařov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rynárec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Rynoltice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Řečany nad Labem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Řehlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Řevnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Říčany</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Říčany u Prahy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Řitka</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sadská</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Seč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sedlčany</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sedlec</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sedlec-Prčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sedlice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sedliště</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Semčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Semice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Semily</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Senice na Hané</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Senohraby</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Senomaty</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sepekov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sezemice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sezimovo Ústí</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Skalice nad Svitavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Skalsko</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Skřipov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Skuhrov nad Bělou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Skuteč</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slabce</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slaný</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slapy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slatina nad Zdobnicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slatiňany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slavkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slavkov u Brna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slezská Ostrava</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Slušovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Smečno</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Smidary</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Smilovice u Třince</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Smiřice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Smržice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Smržovka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Soběchleby</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Soběslav</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sobíňov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sobotka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sokoleč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sokolnice u Brna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sokolov</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sopotnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Srubec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stachy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Staňkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stará Červená Voda</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stará Paka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stará Ves</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stará Ves nad Ondřejnicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Staré Město</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Starý Kolín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stařeč</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stěžery</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stod</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stochov</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strakonice</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strančice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strání</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strašice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Straškov-Vodochody</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stráž pod Ralskem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strážnice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strážný</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strmilov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Struhařov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Strýčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Středokluky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Střelice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Stříbro</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Studená</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Studenec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Studénka</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sudoměřice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Suchdol</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Suchdol nad Lužnicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Suchohrdly</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sulice - Želivec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Supíkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sušice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Sušice 1</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Světlá nad Sázavou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Svitavy</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Svoboda nad Úpou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Svratka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Svratouch</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Syrovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šanov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šatov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šenov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šenov u Nového Jičína</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šestajovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šilheřovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Škrdlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Škvorec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šlapanice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šluknov</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Špindlerův Mlýn</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šťáhlavy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štěchovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štěkeň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štěpánov nad Svratkou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štěpánovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šternberk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štětí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štítina</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štíty</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Štramberk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šumavské Hoštice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šumná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šumperk</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Šumvald</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tábor</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tábor 2</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tachlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tachov</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tanvald</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tečovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Telč</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Teplice</name>
+<schoolCount>15</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Teplice - Trnovany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Teplice nad Metují</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Terezín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Těrlicko</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tetín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tištín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tlučná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tlumačov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tlustice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tmaň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tochovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Topolná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Toužim</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tovačov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Traplice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Trhová Kamenice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Trhové Sviny</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Troubky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Trstěnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tršice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Trutnov</name>
+<schoolCount>11</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Trutnov 3</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třebařov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třebechovice pod Orebem</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třebenice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třebíč</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třeboň</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třebovle</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třemošnice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třešť</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třinec</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Třinec - Staré Město</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tučapy</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tuchlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tuchořice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tuněchody</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Tupesy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Turnov</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Týn nad Vltavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Týnec nad Sázavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Týniště nad Orlicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Údlice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Uherské Hradiště</name>
+<schoolCount>12</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Uherské Hradiště - Mařatice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Uherský Brod</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Uherský Brod - Havřice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Uherský Ostroh</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Uhlířské Janovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Úholičky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Újezd u Brna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Unhošť</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Uničov</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Unkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Úpice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Určice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ústí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ústí nad Labem</name>
+<schoolCount>22</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ústí nad Labem - Neštěmice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ústí nad Labem 11</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ústí nad Labem-Dobětice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Ústí nad Orlicí</name>
+<schoolCount>6</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Úštěk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Úvaly</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vacenovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Václavovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Valašská Polanka</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Valašské Klobouky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Valašské Meziříčí</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vamberk</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vápenná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Varnsdorf</name>
+<schoolCount>11</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Včelákov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velehrad</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velemín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velešín</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velichovky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velim</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velká Bíteš</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velká Bystřice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velká Hleďsebe</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velká nad Veličkou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Bílovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Březno</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Hamry</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Heraltice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Karlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Meziříčí</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Němčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Opatovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Pavlovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Popovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Poříčí</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velké Přílepy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velký Beranov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velký Borek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velký Osek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Velký Újezd</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Veltrusy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vendryně</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Verneřice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Věrovany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Veselí nad Lužnicí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Veselí nad Moravou</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Větrný Jeníkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Větřní</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vidče</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vidochov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Víchová nad Jizerou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vilémov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vimperk</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Viničné Šumice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vintířov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Višňové</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vítězná</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vítkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vítkovice v Krkonoších</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vizovice</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vlachovo Březí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vlašim</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vlčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vlkoš u Kyjova</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vlkoš u Přerova</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vnorovy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vodňany</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vojkovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Volenice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Volyně</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Votice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vraclav</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vranov nad Dyjí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vranovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrapice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vratimov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vráž</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrbátky</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrbno pod Pradědem</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrbovec</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrdy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrchlabí</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrchlabí 1</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrchoslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vrchotovy Janovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vroutek</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vřesovice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vsetín</name>
+<schoolCount>8</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Všenory</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Všestary</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Všetaty</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vysoké Mýto</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vysoké nad Jizerou</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vysoké Veselí</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vysoký Újezd</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Vyškov</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zábřeh</name>
+<schoolCount>4</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Záhornice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Záhoří</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zaječov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zákupy</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zásada</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zastávka</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zastávka u Brna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zašová</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zátor</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zbraslav</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zbraslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zbyslavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zdíkov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zdislavice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zhoř</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zlatá Koruna</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zlaté Hory</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zlín</name>
+<schoolCount>14</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zlín - Kudlov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zlín - Malenovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Znojmo</name>
+<schoolCount>11</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zruč nad Sázavou</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Zvole</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žabčice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žacléř</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žalany</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žamberk</name>
+<schoolCount>5</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žandov</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žatec</name>
+<schoolCount>9</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žďár</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žďár nad Sázavou</name>
+<schoolCount>7</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žebrák</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žehuň</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žehušice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Želešice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Želetice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Železná Ruda</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Železnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Železný Brod</name>
+<schoolCount>3</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žeravice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Židlochovice</name>
+<schoolCount>2</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žirovnice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žiželice</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+<municipalityInfo>
+<name>Žulová</name>
+<schoolCount>1</schoolCount>
+</municipalityInfo>
+</ArrayOfmunicipalityInfo>

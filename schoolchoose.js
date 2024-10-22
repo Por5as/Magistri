@@ -1,7 +1,7 @@
-let url = "https://bakalari.spssoa.cz/api/3/timetable/permanent"
-let head = {"Content-Type": "application/x-www-form-urlencoded", "Authorization": "Bearer " + window.sessionStorage.getItem("access_token") }
+let url = "https://corsproxy.io/?https://sluzby.bakalari.cz/api/v1/municipality"
+let head = {"Accept": "application/json"}
 
-async function GetPermanentTimetable() {
+async function GetSchoolList() {
     var response = await fetch(url, {
         method: "GET",
         headers: head,
@@ -12,7 +12,7 @@ async function GetPermanentTimetable() {
     DisplayData(responseJson)
 }
 
-GetPermanentTimetable()
+GetSchoolList()
 
 function DisplayData(data) {
     document.getElementById("test").innerHTML = data
