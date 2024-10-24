@@ -7,7 +7,9 @@ async function GetSchoolList() {
         headers: head,
     });
 
-    var responseJson = JSON.stringify(await response.json())
+    //var responseJson = JSON.stringify(await response.json())
+    var responseJson = await response.json()
+
     console.log(responseJson)
     DisplayData(responseJson)
 }
@@ -15,5 +17,7 @@ async function GetSchoolList() {
 GetSchoolList()
 
 function DisplayData(data) {
-    document.getElementById("test").innerHTML = data
+    for (let i = 1; i < data.length; i++ ){
+        document.write(data[i]["name"] + "<br/>")
+    }
 }
